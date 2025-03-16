@@ -1,4 +1,4 @@
-# 🚖 Ola Ride Analysis using SQL & Power BI
+# 🚖 OLA Ride Analysis using SQL & Power BI
 
 ## 📌 Project Overview  
 Ride-hailing services like Ola generate vast amounts of data daily. Analyzing this data helps uncover trends in customer behavior, ride patterns, cancellations, and payment preferences. This project utilizes **SQL** for data extraction and analysis, while **Power BI** is used for interactive data visualization. The goal is to derive actionable insights that can enhance operational efficiency and customer experience.
